@@ -1,0 +1,9 @@
+Wybór projektu - 
+    Nad jakim projektem będziemy pracowali? 
+    Czy adresuje on rzeczywiste problemy użytkowników?
+
+Definicja MVP - 
+    Co składa się na minimalną działającą wersję naszego projektu?
+
+Stack technologiczny - 
+    Jakie technologie i usługi pozwolą nam najefektywniej pracować nad projektem?

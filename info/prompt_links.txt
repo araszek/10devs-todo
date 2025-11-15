@@ -1,0 +1,12 @@
+prd plan 
+https://10xrules.ai/prompts?org=10xdevs&collection=m2-bootstrap&segment=l1-planning
+
+prd 
+https://10xrules.ai/prompts?org=10xdevs&collection=m2-bootstrap&segment=l1-planning&prompt=4ac8b7fe-6c04-4e56-83db-00e5e1d0691d
+
+stack ver
+https://10xrules.ai/prompts?org=10xdevs&collection=m2-bootstrap&segment=l1-planning&prompt=65b2fb71-4130-4be0-a0bf-a7532cff39d2
+
+readme
+https://10xrules.ai/prompts?org=10xdevs&collection=m2-bootstrap&segment=l2-rules-for-ai&prompt=fd5efc36-7aff-4bd5-8e23-83378e8152b7
+
